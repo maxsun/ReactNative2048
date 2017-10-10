@@ -1,0 +1,3 @@
+rootProject.name = 'Max2048'
+
+include ':app'
